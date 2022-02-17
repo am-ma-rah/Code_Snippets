@@ -1,0 +1,3 @@
+This python Code is used to compare two folders if they have same/equal no. of files. We can keep same files and delete the extra files. So, that both folders can have 
+equal Number of Files.
+Note: Changes may requires for path according to operating systems.
