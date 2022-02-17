@@ -1,0 +1,3 @@
+Short and easy code in python provided for extraction of frames from video or set of videos at once.
+Note: You can change number of frames as per your requirement. We considered 16 frames in this case. 
+VideosCredit: Video samples are taken from FakeAVCeleb Dataset.
