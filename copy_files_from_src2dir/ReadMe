@@ -1,1 +1,7 @@
+For example, we have 3 folders 
+  - folder1 = contain some files from source directory
+  - folder2 = source directory 
+  - folder3 = destination directory
+If some files in folder 1 match the files in source directory, and you want to copy those files from source directly to destination directory. 
 
+This short and easy python code will help you to copy those files from folder one that already exist in second folder and transfer them to third folder.
