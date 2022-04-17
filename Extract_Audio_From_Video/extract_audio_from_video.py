@@ -3,8 +3,8 @@ import os
 from moviepy.editor import *
 from pathlib import Path
 if __name__ == '__main__':
-    dir_path = ""              # Path of videos to extract the audios from.
-    target_path = ""           # Path of target directory where extracted audios will be stored.
+    dir_path = r""              # Path of videos to extract the audios from.
+    target_path = r""           # Path of target directory where extracted audios will be stored.
     count = 0
     for path, subfol, files in os.walk(dir_path):
         c = 0
