@@ -1,4 +1,4 @@
-This python code will help you to preserve the scquence of frames when you read extracted video frames. 
+This python code will help you to preserve the sequence of frames when you read extracted video frames. 
 This code provides the demo as well.
 
 Note: natsort package works fine to deal with the problem of reading video frames/images randomly. 
