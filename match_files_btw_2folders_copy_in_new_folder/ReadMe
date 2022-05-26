@@ -1,3 +1,5 @@
 This python code will help you to get 2 lists of file names from two different folders. 
 If the files from the src_folder matches the files in match_folder then it copies the same files to the new folder.
+We have provided some samples in data folder, you can try to reproduce the results by creating a tar_folder and running this script.
+
 Note: Set the path as per your requirement.
