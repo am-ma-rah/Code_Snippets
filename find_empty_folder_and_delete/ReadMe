@@ -1,1 +1,4 @@
-
+This python code will help you to find empty folders in a directory and delete those empty folders. 
+- You need to adjust the root path to the drectory that contains few empty/non-empty folders.
+- We have provided some samples in data folder, you can try to reproduce the results by running this script.
+- In addition, you can try to create few empty folders in the data folder, then, run this script. This script will help you to get rid of empty folders in your root directory.
