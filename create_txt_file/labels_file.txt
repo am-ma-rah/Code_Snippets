@@ -1,0 +1,4 @@
+train/cat_voice.wav 1
+train/dog_voice.wav 1
+train/goat_voice.wav 1
+train/horse_voice.wav 1
