@@ -1,1 +1,4 @@
-
+ This short and easy python code will help you to create a txt file with the name labels_file.txt,
+  - Where foldernames are considered as name of wavfiles and main directory as a label. 
+- We have provided some samples in data_folder, you can try to reproduce the results by running this script.
+- Moreover, we have provided the labels_file.txt that is produced by running this script.
