@@ -1,1 +1,3 @@
-
+- This short and easy python code will help you to create a txt file of all the filenames in the folder.
+- We have provided some samples in data folder, you can try to reproduce the results by running this script.
+- Moreover, we have provided the filenames_list.txt that is produced by running this script from the data samples in the provided data folder.
